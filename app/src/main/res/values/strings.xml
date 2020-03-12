@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">REMEMBR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_next">Next</string>
+    <string name="add">Add</string>
+    <string name="time_to_remind_you">Time to remind you</string>
+    <string name="app_used_optional">App Used(optional)</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter Time</string>
+    <string-array name="tabs">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+
+    </string-array>
+    <item name="tvTitle" type="id">tvTitle</item>
+</resources>
